@@ -1,5 +1,0 @@
-class Scrapper 
-
-
-
-end
